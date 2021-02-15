@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/AzureFunction.SubscriberSamples.Application/bin/Debug/netcoreapp3.1
+/src/AzureFunction.SubscriberSamples.CrossCutting.IoC/bin/Debug/netcoreapp3.1
+/src/AzureFunction.SubscriberSamples.CrossCutting.IoC/obj
+/src/AzureFunction.SubscriberSamples.Application/obj
+/.vs/azurefunction-subscriber-samples/v16/TestStore/0
+/.vs
+/src/AzureFunction.SubscriberSamples.Subscriber/Properties
+/test/AzureFunction.SubscriberSamples.Subscriber.Test/bin/Debug/netcoreapp3.1
+/test/AzureFunction.SubscriberSamples.Subscriber.Test/obj
